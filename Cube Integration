@@ -2,8 +2,8 @@ GitHub Guide:
 Cube IDE integration
 
 1.	Log into GitHub:
-Username: MatrixSensors
-Password:   M0F5quad-24
+      Username: MatrixSensors
+      Password:   M0F5quad-24
 2.	Go to Settings > Developer settings > Personal access tokens > Tokens (classic) > Generate new token (classic)
 3.	Set expiration to never and select desired scopes. Create the token.
 4.	Copy the personal access token.
@@ -12,6 +12,6 @@ Password:   M0F5quad-24
 7.	Select Window > Show View > Other, and select Git
 8.	Under the Git Repositories tab, select “Clone a Git repository”
 9.	Enter the URL of the git repository:
-a.	MatrixSensors/DARTfw (github.com)
-b.	MatrixSensors/GasGenfw (github.com)
+	    https://github.com/MatrixSensors/GasGenfw
+	    https://github.com/MatrixSensors/DARTfw
 10.	Enter the personal access token into the password field.
